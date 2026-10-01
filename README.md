@@ -1,5 +1,10 @@
 # JohnHansonTheDev — CS2 Internal
 
+![Stars](https://img.shields.io/github/stars/JohnHansonTheDev/-cs2-october-internal-cheat?style=social)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
+![Game](https://img.shields.io/badge/game-Counter--Strike%202-orange)
+
 ![Showcase](cs2.jpg)
 
 A lightweight, stealth-oriented Counter-Strike 2 internal: no menu, no console window, no clutter.
@@ -56,6 +61,32 @@ Or simply grab **`JohnHansonTheDev-CS2-v1.0.0.zip`** above — it contains both 
   once locked on. (Shooting is in your hands by default.)
 - There is deliberately **no menu and no console** in this build. Everything
   above simply works out of the box.
+
+## Features
+
+- **Aimbot with head lock-on** — hold Mouse 4 and the crosshair snaps to the
+  enemy head closest to the center of your screen, with smoothing and an
+  on-screen FOV circle.
+- **Recoil Control System (RCS)** — automatic spray compensation while aiming.
+- **ESP Wallhack** — enemy boxes, bone ESP and glow, with a separate visible
+  color so you instantly know who you can shoot.
+- **Floating damage numbers** — red combat text rises off enemies as you
+  damage them, with adjustable size.
+- **Skin changer** — inventory skins applied automatically in the background.
+- **Stealth build** — no menu, no console window, nothing on screen except
+  the game itself. Everything runs on tuned defaults.
+
+## Frequently asked questions
+
+- **Is it free?** Yes — completely free, no key, no login, no paywall.
+- **Which button is the aimbot?** Hold **Mouse 4** (the upper side mouse
+  button). Release it to stop aiming instantly.
+- **Is there a menu?** Not in this build. Every feature runs on defaults
+  that were tuned in real matches — extract, inject, hold Mouse 4.
+- **Will I get VAC banned?** Any third-party cheat carries that risk, and no
+  cheat is ever undetectable. Use alternate accounts you can afford to lose.
+- **The game just updated and something broke?** Offsets shift with CS2
+  updates. Check back here for a new release — updates are posted fast.
 
 ## Troubleshooting
 
