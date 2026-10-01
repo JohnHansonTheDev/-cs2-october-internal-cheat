@@ -1,5 +1,7 @@
 # JohnHansonTheDev — CS2 Internal
 
+![Showcase](cs2.jpg)
+
 A lightweight, stealth-oriented Counter-Strike 2 internal: no menu, no console window, no clutter.
 Just extract, inject, and play — everything runs on sensible defaults.
 
