@@ -1,7 +1,7 @@
 # JohnHansonTheDev — CS2 Internal
 
 ![Stars](https://img.shields.io/github/stars/JohnHansonTheDev/-cs2-october-internal-cheat?style=social)
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
 ![Game](https://img.shields.io/badge/game-Counter--Strike%202-orange)
 
@@ -22,7 +22,7 @@ Just extract, inject, and play — everything runs on sensible defaults.
 | `JohnHansonTheDev.dll` | The cheat itself. It must sit next to the injector. |
 | `JohnHansonTheDev-Injector.exe` | The launcher that loads the DLL into the game. |
 
-Or simply grab **`JohnHansonTheDev-CS2-v1.0.1.zip`** above — it contains both files.
+Or simply grab **`JohnHansonTheDev-CS2-v1.0.2.zip`** above — it contains both files.
 
 ## Requirements
 
@@ -101,9 +101,12 @@ Or simply grab **`JohnHansonTheDev-CS2-v1.0.1.zip`** above — it contains both 
 
 ## Version history
 
-- **v1.0.1** (October 9, 2026) — Crash fix for the latest CS2 update (stale
-  inventory offset now fails safe instead of crashing), silenced inventory
-  error spam, gradient enemy health bars.
+- **v1.0.2** (October 15, 2026) — Fixed startup after the latest CS2 update:
+  the menu mouse hook no longer depends on a fragile signature (resolved
+  from the live vtable instead), plus gradient enemy health bars.
+- **v1.0.1** (October 9, 2026) — Crash fix for the CS2 update (stale
+  inventory offset now fails safe instead of crashing) and silenced
+  inventory error spam.
 - **v1.0.0** — Initial stealth release: aimbot with head lock-on (Mouse 4),
   recoil control, enemy ESP, floating damage numbers. No GUI, no console.
 
